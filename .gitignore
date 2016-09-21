@@ -1,0 +1,9 @@
+# ignore all no extra name file
+*
+!*.*
+
+# add folder
+
+*.pyc
+*.log
+
